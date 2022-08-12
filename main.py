@@ -5,7 +5,7 @@
 # these questions are:
 # - What are the top five most mentioned product categories across all of Reddit?
 # - What are the top three product categories that appear across the greatest number of subreddits?
-# please change the file path to the location of your reddits folder (the folder containing folders 1-Z
+# please change the file path to the location of your reddits folder (the folder containing folders 1-Z)
 # additionally please make sure the required imported libraries are available
 
 # library imports
